@@ -1,7 +1,7 @@
 def square_array(numbers)
   new_numbers = []
   i = 0
-  while numbers[i]
+  while square_array[i]
   new_numbers.push(numbers ** 2)
   +=i
 end
