@@ -8,7 +8,7 @@ end
   return new_numbers
 end
 
-def square_array(new_numbers)
+def square_array2(new_numbers)
   two_new_numbers = []
   i = 0
   while i < square_array.length
